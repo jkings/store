@@ -1,0 +1,15 @@
+.svn
+plugins/*
+html
+stacktrace.log
+test/reports
+web-app/plugins
+*.iws
+*.ipr
+*.war
+*DB*
+docs
+target/*
+target-eclipse/*
+.idea
+
